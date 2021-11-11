@@ -1,0 +1,6 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.view": "hierarchical",
+    "sqltools.connections": []
+}

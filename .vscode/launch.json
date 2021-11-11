@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch KeycloakSpringbootMicroserviceApplication",
+            "request": "launch",
+            "mainClass": "com.authServer.keycloakspringbootmicroservice.KeycloakSpringbootMicroserviceApplication",
+            "projectName": "keycloak-springboot-microservice"
+        }
+    ]
+}
